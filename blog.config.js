@@ -24,7 +24,7 @@ const BLOG = {
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
   },
   notionPageId: "1d018dc92f5d4ab28ac017225b7f2b78", // DO NOT CHANGE THIS！！！
-  notionAccessToken: process.env.NOTION_ACCESS_TOKEN, // Useful if you prefer not to make your database public
+  notionAccessToken: "v02%3Auser_token_or_cookies%3AUxpifL7R-gk8pqnI9WAS4iUwK2_pwRK-g7HObKSI-vYJx3aCScdTHTwCHVLhOzTelQ2fCJ1VFh0i5-0Oxy-X6curIauJQp1uuQwlZzPWNW7IO6WujYXBC3XMt_z_SsIKCZY_", // Useful if you prefer not to make your database public
   analytics: {
     provider: '', // Currently we support Google Analytics and Ackee, please fill with 'ga' or 'ackee', leave it empty to disable it.
     ackeeConfig: {
